@@ -39,3 +39,12 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/weather-consumer/mvnw
+/weather-consumer/mvnw.cmd
+/weather-producer/mvnw
+/weather-producer/mvnw.cmd
+/weather-producer/HELP.md
+/weather-consumer/HELP.md
+/.idea/
+/weather-consumer/.mvn/
+/weather-producer/.mvn/
